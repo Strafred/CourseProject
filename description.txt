@@ -11,7 +11,6 @@ Num_Bank_Accounts - Represents the number of bank accounts a person holds
 Num_Credit_Card - Represents the number of other credit cards held by a person
 Interest_Rate - Represents the interest rate on credit card
 Num_of_Loan - Represents the number of loans taken from the bank
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Type_of_Loan - Represents the types of loan taken by a person
 Delay_from_due_date - Represents the average number of days delayed from the payment date
 Num_of_Delayed_Payment - Represents the average number of payments delayed by a person
@@ -26,5 +25,4 @@ Total_EMI_per_month - Represents the monthly EMI payments (in USD)
 Amount_invested_monthly - Represents the monthly amount invested by the customer (in USD)
 Payment_Behaviour - Represents the payment behavior of the customer (in USD)
 Monthly_Balance - Represents the monthly balance amount of the customer (in USD)
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Credit_Score - Represents the bracket of credit score (Poor, Standard, Good)
