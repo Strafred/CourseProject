@@ -6,11 +6,6 @@ This project focuses on building a machine learning model to classify credit sco
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [References](#references)
 
 ## Overview
 The goal of this project is to create an intelligent system that can classify individuals into different credit score brackets using machine learning techniques. This project is based on the Kaggle dataset: [Credit Score Classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data).
