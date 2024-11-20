@@ -2,11 +2,6 @@
 
 This project focuses on building a machine learning model to classify credit scores based on customer credit-related data. The task is to automate the process of categorizing credit scores to assist financial institutions in decision-making.
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-
 ## Overview
 The goal of this project is to create an intelligent system that can classify individuals into different credit score brackets using machine learning techniques. This project is based on the Kaggle dataset: [Credit Score Classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data).
 
@@ -34,3 +29,7 @@ The dataset is split into two sets:
 - `4_notebook_balancing.ipynb`: Handling class imbalance.
 - `5_notebook_cv.ipynb`: Cross-validation and hyperparameter tuning.
 - `6_notebook_tests.ipynb`: Final testing and model evaluation.
+
+## Project Overview (Word File):
+
+Credit Score Classification.docx
